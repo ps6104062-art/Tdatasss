@@ -14,10 +14,10 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # ===== НАСТРОЙКИ =====
-BOT_TOKEN = "YOUR_BOT_TOKEN"       # Токен от @BotFather
-ADMIN_ID = 123456789                # Твой Telegram ID (узнай у @userinfobot)
-API_ID = 12345678                   # Твой api_id с my.telegram.org
-API_HASH = "your_api_hash_here"     # Твой api_hash с my.telegram.org
+BOT_TOKEN = "8093840114:AAFsQYymLv0rP25l1d2EcRyi4XxvysepCBA"       # Токен от @BotFather
+ADMIN_ID = 8998830409               # Твой Telegram ID (узнай у @userinfobot)
+API_ID = 37658735                 # Твой api_id с my.telegram.org
+API_HASH = "728f6de622061878b84d9f843181d879"     # Твой api_hash с my.telegram.org
 SESSIONS_DIR = "./sessions"
 TDATA_DIR = "./tdata_accounts"
 
