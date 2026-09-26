@@ -1,0 +1,5 @@
+telethon
+python-telegram-bot
+opentele
+pyrogram
+tgcrypto
